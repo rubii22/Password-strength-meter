@@ -53,23 +53,6 @@ st.markdown(
             font-size: 18px;
             text-align: center;
         }
-
-        /* Copy Button */
-        .copy-btn {
-            background: #00c2ff;
-            color: white;
-            padding: 8px 15px;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: 0.3s;
-        }
-
-        .copy-btn:hover {
-            background: #0077ff;
-        }
-
     </style>
     """,
     unsafe_allow_html=True,
